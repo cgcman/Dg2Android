@@ -1,4 +1,4 @@
-package com.grdj.Dg2Android;
+package com.grdj.Dg2Android.ui.auth;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.widget.ImageView;
 
 import com.bumptech.glide.RequestManager;
+import com.grdj.Dg2Android.R;
 
 import javax.inject.Inject;
 
